@@ -10,7 +10,7 @@ format = "wemake"
 show-source = true
 
 # Plugins:
-max-line-length = 80
+max-line-length = 100
 max-complexity = 6
 
 # Violations:
