@@ -17,7 +17,7 @@ max-complexity = 6
 ignore = "D100,D104,D401,W504,RST303,RST304,DAR103,DAR203"
 
 ["setup.cfg".isort]
-line_length = 80
+line_length = 100
 
 
 [nitpick.files."setup.cfg"]
